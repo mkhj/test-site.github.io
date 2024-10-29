@@ -1,0 +1,78 @@
+#test{
+    color: #03045e;
+    color: #0077b6;
+    color: #00b4d8;
+    color: #90e0ef;
+    color: #caf0f8;
+    
+    color: #e5e5e5;
+}
+
+#navbar #brand-logo{
+    margin-left: 50px;
+    width: 150px;
+    font-size: 12px;
+}
+
+#navbar{
+    padding: 20px 0px;
+    /*background-color: #03045e;*/
+}
+
+#navbar a{
+    color: #fff;
+    border: 2px solid transparent;
+}
+
+#navbar a.active{
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-bottom-color: #fff;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+
+#navbar a:hover{
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-bottom-color: #fff;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+
+#navbar.bg-white a{
+    color: #000!important;
+}
+
+
+
+#jumpbotron{
+    height: 600px;
+    background-image: url("../img/ai-generated-8563259_1280.jpg");
+    padding: 20px 0px;
+}
+
+#jumpbotron h1,
+#jumpbotron .lead{
+    color: #fff!important;
+}
+
+
+#jumpbotron-small{
+    height: 250px;
+    background-image: url("../img/ai-generated-8563259_1280.jpg");
+    padding: 20px 0px;
+}
+
+#jumpbotron-small h1,
+#jumpbotron-small .lead{
+    color: #fff!important;
+}
+
+#custom-cards small{
+    padding-left: 10px!important;
+}
+
+#digital-service #jumpbotron-small{
+    background-image: url("../img/ai-generated-9104187_1920.jpg");
+}
